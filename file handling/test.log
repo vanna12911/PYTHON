@@ -1,0 +1,15 @@
+INFO:root:info here
+CRITICAL:root:critical here
+ERROR:root:error here
+WARNING:root:warning here
+ERROR:root:this is my error log
+CRITICAL:root:this is my critical log
+INFO:root:logging starts here
+INFO:root:logging starts here
+INFO:root:logging starts here
+INFO:root:logging starts here
+INFO:root:logging starts here
+INFO:root:logging starts here
+INFO:root:logging ends here
+INFO:root:logging starts here
+INFO:root:logging ends here

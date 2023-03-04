@@ -1,0 +1,1 @@
+I noticed that the current Kaggle environment (2023-02-17) has polars supported! So I made a notebook series to implement Chris's idea using polars. And I also added a new elapse-time diff feature named time_past forhere it ends
